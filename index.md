@@ -8,6 +8,6 @@ Retrouvez une liste d'article, intéressants ou non, que j'ai écrit.
 Il y a de tous les sujets, de la vie courante, à l'art comme le cinéma ou la musique.
 
 Mes réseaux : 
-- Instagram : https://www.instagram.com/enzo.tfn/
-- LetterBoxd : https://letterboxd.com/enzotfn/
-- Twitter : https://x.com/_ICantBreathee (attention)
+- Instagram : [enzo.tfn](https://www.instagram.com/enzo.tfn/)
+- LinkedIn : [Enzo Tofani](https://www.linkedin.com/in/enzotofani/)
+- LetterBoxd : [enzotfn](https://letterboxd.com/enzotfn/)
